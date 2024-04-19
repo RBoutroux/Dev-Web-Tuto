@@ -1,5 +1,5 @@
 # Dev-Web-Tuto
-6 code files after completing general assembly dash HTML, CSS, and JavaScript tutorial. 
+6 code files after completing general assembly dash HTML, CSS, and JavaScript tutorial.  
 Lien du tuto : 
 https://dash.generalassemb.ly/projects  
 
