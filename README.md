@@ -4,6 +4,7 @@ Lien du tuto :
 https://dash.generalassemb.ly/projects  
 
 Idéalement, il faudrait télécharger jquery et donner un lien vers jquery au code pour faire fonctionner les derniers tutos.  
+A la place, j'ai donné un lien vers un CDN (Content Delivery Network), en l'occurence Google.  
 
 
 First tuto site : 
