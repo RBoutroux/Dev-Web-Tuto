@@ -1,5 +1,9 @@
 # Dev-Web-Tuto
 6 code files after completing general assembly dash HTML, CSS, and JavaScript tutorial. 
+Lien du tuto : 
+https://dash.generalassemb.ly/projects  
+
+Idéalement, il faudrait télécharger jquery et donner un lien vers jquery au code pour faire fonctionner les derniers tutos.  
 
 
 First tuto site : 
