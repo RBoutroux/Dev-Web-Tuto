@@ -1,5 +1,6 @@
 # Dev-Web-Tuto
-6 code files after completing general assembly dash HTML, CSS, and JavaScript tutorial
+6 code files after completing general assembly dash HTML, CSS, and JavaScript tutorial. 
+
 
 First tuto site : 
 https://dash.generalassemb.ly/Eralink/build-your-own-personal-website
@@ -17,3 +18,4 @@ Fifth tuto site :
 https://dash.generalassemb.ly/Eralink/cotbots-4
 
 Sixth tuto site : 
+https://dash.generalassemb.ly/Eralink/madlins-5
