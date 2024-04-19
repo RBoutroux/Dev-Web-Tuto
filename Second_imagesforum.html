@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background: url('http://dash.ga.co/assets/jeff-bg.png');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin-left: auto;
+      margin-right: auto;
+      border: 7px solid rgba(200,220,180,0.3);
+      border-radius: 20px;
+      width: 400px;
+      height: auto;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    body{
+      background: rgba(150,0,0,0.22);
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+      img{
+        width: 200px;
+        height: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Inktober</h1>
+    <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Best Drawings</a></li>
+      <li><a href="#">Worst Drawings</a></li>
+    </ul>
+  </header>
+  <article>
+    <h2>Jour 7 : Drip</h2>
+    <a href="https://imgur.com/cyWutuF"><img src="https://i.imgur.com/cyWutuF.jpg" title="source: imgur.com" /></a></br>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>Jour 8 : Toad</h2>
+    <a href="https://imgur.com/xCin29u"><img src="https://i.imgur.com/xCin29u.jpg" title="source: imgur.com" /></a></br>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>Jour 9 : Bounce</h2>
+    <a href="https://imgur.com/CESlkE8"><img src="https://i.imgur.com/CESlkE8.jpg" title="source: imgur.com" /></a></br>
+    <button>Like</button>
+  </article>
+  <script>
+    $("button").on("click", function() {
+      alert("Clicked!");
+    });
+  </script>
+</body>
